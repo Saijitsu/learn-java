@@ -1,4 +1,4 @@
-# learn-java
+# Learn Java as Newbie
 some try on java
 
 using Eclipse
